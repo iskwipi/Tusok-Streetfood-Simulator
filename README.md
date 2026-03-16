@@ -83,7 +83,6 @@ Created by [@iskwipi](https://github.com/iskwipi)
 
 If you encounter any issues or have suggestions, please feel free to:
 - Open an [Issue](https://github.com/iskwipi/Tusok-Streetfood-Simulator/issues)
-- Check the [Wiki](https://github.com/iskwipi/Tusok-Streetfood-Simulator/wiki) for additional information
 
 ---
 
